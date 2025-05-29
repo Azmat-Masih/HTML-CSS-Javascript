@@ -1,0 +1,12 @@
+.text-img{
+    color: white;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: 100px;
+    background-image: url("image/image2.jpg");
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
