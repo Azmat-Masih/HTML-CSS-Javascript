@@ -1,0 +1,27 @@
+.grid {
+    width: 400px;
+    height: 600px;
+    position: relative;
+    background-color: yellow;
+    font-size: 120px;
+    text-align: center;
+    /* margin-top: 10rem; */
+}
+
+.doodler {
+    height: 80px;
+    width: 60px;
+    position: absolute;
+    background-color: red;
+}
+
+.platform {
+    height: 15px;
+    width: 85px;
+    position: absolute;
+    background-color: green;
+}
+
+.center{
+    position: center;
+}
